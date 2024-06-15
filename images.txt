@@ -8,3 +8,5 @@ xhofe/alist:latest
 hello-world
 xiaoyaliu/alist:hostmode
 xiaoyaliu/alist:latest
+
+haroldli/xiaoya-tvbox
