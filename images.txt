@@ -11,4 +11,6 @@ xiaoyaliu/alist:latest
 
 haroldli/xiaoya-tvbox
 halohub/halo:latest
+halohub/halo:2.16
+
 
