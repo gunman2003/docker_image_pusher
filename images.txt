@@ -10,3 +10,5 @@ xiaoyaliu/alist:hostmode
 xiaoyaliu/alist:latest
 
 haroldli/xiaoya-tvbox
+halohub/halo:latest
+
