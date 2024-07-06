@@ -13,5 +13,5 @@
 #halohub/halo:latest
 #halohub/halo:2.16
 
-jc/nginx-proxy-manager
+jc21/nginx-proxy-manager
 
