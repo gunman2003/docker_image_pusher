@@ -13,5 +13,7 @@
 #halohub/halo:latest
 #halohub/halo:2.16
 
-jc21/nginx-proxy-manager
-
+#jc21/nginx-proxy-manager
+mysql:8.1.0
+mysql:5.7
+wordpress
