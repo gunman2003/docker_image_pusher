@@ -18,4 +18,6 @@
 #mysql:5.7
 #wordpress
 #liangliangyy/djangoblog:latest
-lscr.io/linuxserver/qbittorrent:latest
+#lscr.io/linuxserver/qbittorrent:latest
+
+cnk3x/xunlei
