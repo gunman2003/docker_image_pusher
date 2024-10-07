@@ -20,4 +20,5 @@
 #liangliangyy/djangoblog:latest
 #lscr.io/linuxserver/qbittorrent:latest
 
-cnk3x/xunlei
+cnk3x/xunlei:latest
+
