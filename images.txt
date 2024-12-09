@@ -20,5 +20,7 @@
 #liangliangyy/djangoblog:latest
 #lscr.io/linuxserver/qbittorrent:latest
 
-cnk3x/xunlei:latest
+#cnk3x/xunlei:latest
+guovern/iptv-api
+
 
