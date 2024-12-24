@@ -22,7 +22,8 @@
 
 #cnk3x/xunlei:latest
 #guovern/iptv-api
-youshandefeiyang/allinone
+#youshandefeiyang/allinone
+yuexuangu/allinone_format:latest
 
 
 
