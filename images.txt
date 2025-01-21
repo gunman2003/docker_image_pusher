@@ -23,10 +23,9 @@
 #lscr.io/linuxserver/qbittorrent:latest
 
 #cnk3x/xunlei:latest
-guovern/iptv-api
-#youshandefeiyang/allinone
-
-#yuexuangu/allinone_format:latest
+#guovern/iptv-api
+youshandefeiyang/allinone
+yuexuangu/allinone_format:latest
 #guovern/tv-driver
 
 
