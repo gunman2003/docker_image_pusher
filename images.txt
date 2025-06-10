@@ -11,7 +11,7 @@
 #xiaoyaliu/alist:hostmode
 #xiaoyaliu/alist:latest
 
-#haroldli/xiaoya-tvbox
+haroldli/xiaoya-tvbox
 #halohub/halo:latest
 #halohub/halo:2.16
 
@@ -29,7 +29,7 @@
 #guovern/tv-driver
 
 #cloudnas/clouddrive2
-unilei/aipan-netdisk-search
+#unilei/aipan-netdisk-search
 
 
 
