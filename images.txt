@@ -11,7 +11,7 @@
 #xiaoyaliu/alist:hostmode
 #xiaoyaliu/alist:latest
 
-haroldli/xiaoya-tvbox
+#haroldli/xiaoya-tvbox
 #halohub/halo:latest
 #halohub/halo:2.16
 
@@ -30,6 +30,8 @@ haroldli/xiaoya-tvbox
 
 #cloudnas/clouddrive2
 #unilei/aipan-netdisk-search
+
+ubuntu:22.04
 
 
 
