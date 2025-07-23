@@ -36,7 +36,7 @@
 #ubuntu:18.04
 #ubuntu:16.04
 
-dbeaver/cloudbeaver
+#dbeaver/cloudbeaver
 phpmyadmin/phpmyadmin
 
 
