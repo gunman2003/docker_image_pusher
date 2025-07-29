@@ -37,8 +37,11 @@ mysql:5.7.44
 #ubuntu:16.04
 
 #dbeaver/cloudbeaver
-phpmyadmin/phpmyadmin
+#phpmyadmin/phpmyadmin
 
+selenium/standalone-firefox:4.34.0-20250717
+selenium/standalone-firefox
+selenium/standalone-chrome
 
 
 
