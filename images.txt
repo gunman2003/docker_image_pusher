@@ -31,7 +31,8 @@ mysql:5.7.44
 #cloudnas/clouddrive2
 #unilei/aipan-netdisk-search
 
-#ubuntu:22.04
+ubuntu:24.04
+ubuntu:22.04
 #ubuntu:20.04
 #ubuntu:18.04
 #ubuntu:16.04
@@ -39,9 +40,9 @@ mysql:5.7.44
 #dbeaver/cloudbeaver
 #phpmyadmin/phpmyadmin
 
-selenium/standalone-firefox:4.34.0-20250717
-selenium/standalone-firefox
-selenium/standalone-chrome
+#selenium/standalone-firefox:4.34.0-20250717
+#selenium/standalone-firefox
+#selenium/standalone-chrome
 
 
 
