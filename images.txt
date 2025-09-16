@@ -17,7 +17,7 @@
 
 #jc21/nginx-proxy-manager
 #mysql:8.1.0
-#mysql:5.7.44
+--platform=linux/arm64 mysql:5.7.44
 #wordpress
 #liangliangyy/djangoblog:latest
 #lscr.io/linuxserver/qbittorrent:latest
@@ -32,8 +32,8 @@
 #unilei/aipan-netdisk-search
 
 ubuntu
-ubuntu:24.04
-ubuntu:22.04
+--platform=linux/arm64 ubuntu:24.04
+--platform=linux/arm64 ubuntu:22.04
 #ubuntu:20.04
 #ubuntu:18.04
 #ubuntu:16.04
