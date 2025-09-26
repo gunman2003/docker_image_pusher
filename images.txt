@@ -34,6 +34,7 @@
 #ubuntu
 #--platform=arm64 ubuntu:24.04
 #--platform=linux/arm64 ubuntu:22.04
+ubuntu:24.04
 #ubuntu:20.04
 #ubuntu:18.04
 #ubuntu:16.04
@@ -45,9 +46,9 @@
 #selenium/standalone-firefox
 #selenium/standalone-chrome
 
-alpine:3.22
-alpine:3.20
-alpine:3.18
+#alpine:3.22
+#alpine:3.20
+#alpine:3.18
 
 
 
