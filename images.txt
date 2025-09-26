@@ -7,7 +7,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=arm64 hello-world
+#--platform=arm64 hello-world
 #xiaoyaliu/alist:hostmode
 #xiaoyaliu/alist:latest
 
@@ -32,8 +32,8 @@
 #unilei/aipan-netdisk-search
 
 #ubuntu
---platform=arm64 ubuntu:24.04
---platform=linux/arm64 ubuntu:22.04
+#--platform=arm64 ubuntu:24.04
+#--platform=linux/arm64 ubuntu:22.04
 #ubuntu:20.04
 #ubuntu:18.04
 #ubuntu:16.04
@@ -44,6 +44,10 @@
 #selenium/standalone-firefox:4.34.0-20250717
 #selenium/standalone-firefox
 #selenium/standalone-chrome
+
+alpine:3.22
+alpine:3.20
+alpine:3.18
 
 
 
