@@ -36,8 +36,8 @@
 #--platform=linux/arm64 ubuntu:22.04
 #ubuntu:24.04
 #ubuntu:20.04
-ubuntu:22.04.5
-ubuntu:20.04.6
+#ubuntu:22.04.5  #该版本号不存在，应为22.04
+#ubuntu:20.04.6
 #ubuntu:18.04
 #ubuntu:16.04
 
