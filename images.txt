@@ -55,5 +55,5 @@
 #rizo928/mywebsql-flex
 #teddysun/kms
 ghcr.io/metatube-community/metatube-server:latest
-froodle/s-pdf
+frooodle/s-pdf
 
