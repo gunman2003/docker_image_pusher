@@ -57,5 +57,5 @@
 #ghcr.io/metatube-community/metatube-server:latest
 #frooodle/s-pdf
 
-dockurr/windows
-
+#dockurr/windows
+registry
