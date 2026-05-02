@@ -60,3 +60,8 @@
 #dockurr/windows
 --platform=linux/arm64 registry
 --platform=linux/arm64 cnk3x/xunlei
+
+ghcr.io/ollama-webui/ollama-webui:latest
+ollama/ollama:latest
+
+
