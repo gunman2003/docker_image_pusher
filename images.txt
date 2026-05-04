@@ -65,6 +65,6 @@
 #ollama/ollama:latest
 
 nowindandmoon/paddle_ocr
-paddleocr:cpu
+paddleocr-image
 
 
