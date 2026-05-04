@@ -61,7 +61,9 @@
 --platform=linux/arm64 registry
 --platform=linux/arm64 cnk3x/xunlei
 
-ghcr.io/ollama-webui/ollama-webui:latest
-ollama/ollama:latest
+#ghcr.io/ollama-webui/ollama-webui:latest
+#ollama/ollama:latest
+
+nowindandmoon/paddle_ocr
 
 
