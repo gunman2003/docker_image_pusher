@@ -65,7 +65,7 @@
 #ollama/ollama:latest
 
 #nowindandmoon/paddle_ocr
-paddlecloud/paddleocr-image
+paddlecloud/paddleocr
 
 #python:3.8-slim
 python:3.10-slim
