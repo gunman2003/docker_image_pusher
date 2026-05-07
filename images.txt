@@ -64,8 +64,8 @@
 #ghcr.io/ollama-webui/ollama-webui:latest
 #ollama/ollama:latest
 
-nowindandmoon/paddle_ocr
-paddleocr-image
+#nowindandmoon/paddle_ocr
+#paddleocr-image
 
 python:3.8-slim
 
