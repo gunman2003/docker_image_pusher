@@ -67,4 +67,5 @@
 nowindandmoon/paddle_ocr
 paddleocr-image
 
+python:3.8-slim
 
