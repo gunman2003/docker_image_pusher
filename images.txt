@@ -66,9 +66,9 @@
 
 #nowindandmoon/paddle_ocr
 #paddlecloud/paddleocr
-#paddlepaddle/paddleocr
+paddlepaddle/paddleocr
 
 #python:3.8-slim
 #python:3.10-slim
 
-paddleocr-slim:v4
+#paddleocr-slim:v4
