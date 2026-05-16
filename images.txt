@@ -62,11 +62,11 @@
 --platform=linux/arm64 cnk3x/xunlei
 
 #ghcr.io/ollama-webui/ollama-webui:latest
-#ollama/ollama:latest
+ollama/ollama
 
 #nowindandmoon/paddle_ocr
 #paddlecloud/paddleocr
-paddlepaddle/paddleocr
+#paddlepaddle/paddleocr
 
 #python:3.8-slim
 #python:3.10-slim
