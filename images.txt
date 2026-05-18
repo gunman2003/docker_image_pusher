@@ -62,7 +62,8 @@
 --platform=linux/arm64 cnk3x/xunlei
 
 #ghcr.io/ollama-webui/ollama-webui:latest
-ollama/ollama
+--platform=linux/arm64 ollama/ollama
+#ollama/ollama
 
 #nowindandmoon/paddle_ocr
 #paddlecloud/paddleocr
