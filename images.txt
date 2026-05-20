@@ -33,7 +33,8 @@
 
 #ubuntu
 #--platform=arm64 ubuntu:24.04
---platform=arm64 ubuntu:22.04
+#--platform=arm64 ubuntu:22.04
+#--platform=linux/arm64 ubuntu:22.04
 #--platform=linux/arm64 ubuntu:22.04
 #ubuntu:24.04
 #ubuntu:20.04
@@ -73,4 +74,5 @@
 #python:3.8-slim
 #python:3.10-slim
 #--platform=arm64 python:3.10-slim
+--platform=linux/arm64 python:3.10-slim
 #paddleocr-slim:v4
