@@ -86,5 +86,8 @@
 
 #ghcr.io/niko1221/strata:0.2.7-cuda13
 #ghcr.io/niko1221/strata:0.2.3-cuda13
-nvidia/cuda:13.0.0-base-ubuntu24.04
-nvidia/cuda:12.0.0-base-ubuntu22.04
+#nvidia/cuda:13.0.0-base-ubuntu24.04
+#nvidia/cuda:12.0.0-base-ubuntu22.04
+
+ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda13
