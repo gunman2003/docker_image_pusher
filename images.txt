@@ -96,4 +96,5 @@
 #ghcr.io/ggml-org/llama.cpp:server-cuda
 #ghcr.io/ggml-org/llama.cpp:server-cuda13
 
-mintplexlabs/anything-llm
+#mintplexlabs/anythingllm
+--platform linux/amd64 mintplexlabs/anythingllm:latest
