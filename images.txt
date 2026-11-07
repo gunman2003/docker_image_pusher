@@ -98,3 +98,6 @@
 
 #mintplexlabs/anythingllm
 --platform linux/amd64 mintplexlabs/anythingllm:latest
+
+
+
